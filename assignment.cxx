@@ -25,5 +25,4 @@ int main() {
     cout<<f(c)<<endl;
     cout<<f(d)<<endl;
     cout<<f(e)<<endl;
-    return 0;
 }
